@@ -1,14 +1,15 @@
-## Your GitHub Learning Lab Repository for Intro to HTML
+## YOUR GITHUB LEARNING LAB REPOSITORY FOR INTRO TO HTML
 
-Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+WELCOME TO YOUR REPOSITORY FOR YOUR GITHUB LEARNING LAB COURSE. 
+This Repository Will Be Used During The Different Activities That I Will Be Guiding You Through This.
 
-Oh! I haven't introduced myself...
+Oh! I Haven't Introduced Myself...
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+I'm The GitHub Learning Lab Bot & I'm Here To Help & Guide You In Your Journey To Learn & Master The Various Topics Covered In This Course. I will be Using Issue & Pull Request Comments To Communicate With You. In Fact, I Already Added An Issue For You To Check Out.
 
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
-I'll meet you over there, can't wait to get started!
+I'll Meet You Over There, Can't Wait To Get Started!
 
 This repository is licensed under [MIT](LICENSE) (c) 2019 GitHub, Inc.
 Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](https://unsplash.com/)
